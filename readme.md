@@ -8,7 +8,7 @@ In addition, webpack is used which will bundle all javascript code into one file
 
 ## How to Use
 
-npm install   
+npm install\   
 npm build
 
 ## Repos/Tools of interest
